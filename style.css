@@ -2990,7 +2990,7 @@ footer hr{
 
 }
 
-@media (max-width:392px) and (min-height:9000px){
+@media (max-width:392px) and (min-height:900px){
 	.header{
 		padding: 40px 60px 0 60px ;
 		position: relative;
